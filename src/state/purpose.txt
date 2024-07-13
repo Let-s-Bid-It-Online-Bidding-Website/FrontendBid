@@ -1,0 +1,2 @@
+This folder is for creating all the redux or context states which will be needed for passing state 
+throughout thr project.

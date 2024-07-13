@@ -1,0 +1,1 @@
+This folder is for creating all the main screens which all encompass all other components in our project

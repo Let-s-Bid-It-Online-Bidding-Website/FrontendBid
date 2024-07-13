@@ -1,0 +1,6 @@
+This folder is for creating all the components needed for the project.
+Create a folder in case you think that various styles of same component would be needed. eg. Button 
+folder will consist of circular button, square button,etc. and make seperate files for each.
+
+We will try to use minimal html and mostly use material ui or any other library will we will finalise.
+So as to concentrate on completion of project rather than styling.
